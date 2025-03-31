@@ -1,5 +1,5 @@
-# Analisis-y-Vizualizacion-de-Datos
-Repositorio de programas de Analisis y vizualizacion de datos 
+# Analisis de ventas de Aguacates
+Analisis y reporte de un Analisis de Aguacates, el Dash fue creado en python y se utilizo pythonanywhere para su despliegue
 
 - Requerimientos para los codigos de este repositorio
     - Pyhton 3.10
